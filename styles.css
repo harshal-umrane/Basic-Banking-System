@@ -1,0 +1,104 @@
+body{
+    font-family: Ubuntu;
+}
+
+.container{
+    margin: 20px auto;
+    text-align: center;
+    height: 400px;
+}
+
+.heading{
+    margin: 80px 0 50px 0;
+    text-align: center;
+    height: 20px;
+}
+
+h1{
+    padding-top: 14%;
+}
+
+.card-first{
+    margin: 20px auto;
+}
+
+.bank{
+    margin: auto;
+    width: 100%;
+    padding: 0px 10px 10px 0px;
+}
+
+.page-footer{
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: #323232;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .container-fund img{
+      opacity: 0.6;
+      height: 720px;
+  }
+  
+  .container-fund h1{
+      font-family: Limelight;
+      font-size: 50px;
+      color: rgb(0, 0, 0);
+      text-align: center;
+  }
+
+.container-map{
+    background-color: rgb(54, 52, 52);
+    padding: 10px;
+    margin: 20px;
+    height: 320px;
+    text-align: left;
+    color: white;
+}
+
+.reach{
+    text-align: center;
+    margin: 50px auto;
+    height: 20px;
+}
+
+.fund-head{
+    text-align: center;
+    margin-top: 100px;
+    text-decoration: underline;
+}
+
+.form{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+    background-color: rgb(39, 36, 36);
+    color: white;    
+
+}
+
+.navbar{
+    opacity: 0.9;
+}
+
+.nav-link:hover{
+    border-radius: 20px;
+    background-color: black;
+}
+
+.nav-link{
+    margin: auto 10px;
+}
+ 
+.cust h1{
+    text-align: center;
+    padding:0;
+}
